@@ -1,0 +1,8 @@
+{
+  "name": "FlashTalk",
+  "description": "A zero-latency voice assistant utilizing the Gemini Live API for instant, fluid, human-like conversations. Features multiple modes for language learning and negotiation.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
